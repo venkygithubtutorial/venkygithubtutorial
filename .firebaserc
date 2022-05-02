@@ -1,0 +1,14 @@
+{
+  "targets": {
+    "cart-application-799": {
+      "hosting": {
+        "angularDemo": [
+          "cart-application-799"
+        ]
+      }
+    }
+  },
+  "projects": {
+    "default": "cart-application-799"
+  }
+}
